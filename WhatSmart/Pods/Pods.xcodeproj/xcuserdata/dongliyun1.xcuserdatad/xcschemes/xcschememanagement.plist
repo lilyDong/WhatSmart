@@ -8,21 +8,77 @@
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
 		</dict>
 		<key>AFNetworking.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>MBProgressHUD.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>MBProgressHUDExtensions.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>Masonry.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
 		</dict>
 		<key>Pods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>SDWebImage.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>pop.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>192198EEA896C64B178494D25180106E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>53480ED0BE09FF49E34B1702D485CAAB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>57D1493E065518EF8797C5595B337BE2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>68D12D6819AC80B29B737A87F7EC6A8B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>99337EB4288451763103C393FA7BA365</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1A03E9133007D08CEE1DA34A53F8361</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -33,6 +89,11 @@
 			<true/>
 		</dict>
 		<key>CF04EB59D341BE5CABB81B8FC2500188</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE2F1D7B9D9FCEA148517E4657B243F4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
